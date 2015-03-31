@@ -1,0 +1,10 @@
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\Time\bin\Debug\Time.exe.config
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\Time\bin\Debug\Time.exe
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\Time\bin\Debug\Time.pdb
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\Time\obj\Debug\Time.exe
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\Time\obj\Debug\Time.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Time\bin\Debug\Time.exe.config
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Time\bin\Debug\Time.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Time\bin\Debug\Time.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Time\obj\Debug\Time.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Time\obj\Debug\Time.pdb

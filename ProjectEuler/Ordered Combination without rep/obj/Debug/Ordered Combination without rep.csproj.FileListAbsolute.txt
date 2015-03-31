@@ -1,0 +1,10 @@
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\Ordered Combination without rep\bin\Debug\Ordered Combination without rep.exe.config
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\Ordered Combination without rep\bin\Debug\Ordered Combination without rep.exe
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\Ordered Combination without rep\bin\Debug\Ordered Combination without rep.pdb
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\Ordered Combination without rep\obj\Debug\Ordered Combination without rep.exe
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\Ordered Combination without rep\obj\Debug\Ordered Combination without rep.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Ordered Combination without rep\bin\Debug\Ordered Combination without rep.exe.config
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Ordered Combination without rep\bin\Debug\Ordered Combination without rep.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Ordered Combination without rep\bin\Debug\Ordered Combination without rep.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Ordered Combination without rep\obj\Debug\Ordered Combination without rep.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Ordered Combination without rep\obj\Debug\Ordered Combination without rep.pdb

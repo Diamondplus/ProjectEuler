@@ -1,0 +1,10 @@
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Permutations\bin\Debug\Permutations.exe
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Permutations\bin\Debug\Permutations.pdb
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Permutations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Permutations\obj\x86\Debug\Permutations.exe
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Permutations\obj\x86\Debug\Permutations.pdb
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Permutations\obj\x86\Debug\Permutations.exe
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Permutations\obj\x86\Debug\Permutations.pdb
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Permutations\bin\Debug\Permutations.exe
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Permutations\bin\Debug\Permutations.pdb
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Permutations\obj\x86\Debug\ResolveAssemblyReference.cache

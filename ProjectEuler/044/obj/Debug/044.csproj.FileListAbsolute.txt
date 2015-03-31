@@ -1,0 +1,7 @@
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\044\bin\Debug\044.exe.config
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\044\bin\Debug\044.exe.config
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\044\bin\Debug\044.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\044\bin\Debug\044.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\044\obj\Debug\044.csprojResolveAssemblyReference.cache
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\044\obj\Debug\044.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\044\obj\Debug\044.pdb

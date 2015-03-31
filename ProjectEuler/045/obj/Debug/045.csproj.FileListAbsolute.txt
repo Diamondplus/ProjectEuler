@@ -1,0 +1,5 @@
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\045\bin\Debug\045.exe.config
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\045\bin\Debug\045.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\045\bin\Debug\045.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\045\obj\Debug\045.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\045\obj\Debug\045.pdb

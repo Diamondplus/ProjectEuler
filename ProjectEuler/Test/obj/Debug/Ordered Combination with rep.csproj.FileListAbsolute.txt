@@ -1,0 +1,8 @@
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\Test\bin\Debug\Test.exe.config
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\Test\obj\Debug\Test.exe
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\Test\obj\Debug\Test.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Test\bin\Debug\Test.exe.config
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Test\bin\Debug\Test.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Test\bin\Debug\Test.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Test\obj\Debug\Test.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\Test\obj\Debug\Test.pdb

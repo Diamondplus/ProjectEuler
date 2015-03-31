@@ -1,0 +1,10 @@
+C:\Users\Vlady\Desktop\C#\Project Euler\All deviders\bin\Debug\All deviders.exe
+C:\Users\Vlady\Desktop\C#\Project Euler\All deviders\bin\Debug\All deviders.pdb
+C:\Users\Vlady\Desktop\C#\Project Euler\All deviders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vlady\Desktop\C#\Project Euler\All deviders\obj\x86\Debug\All deviders.exe
+C:\Users\Vlady\Desktop\C#\Project Euler\All deviders\obj\x86\Debug\All deviders.pdb
+C:\Users\Vlady\Desktop\C#\2011-12\Project Euler\All deviders\bin\Debug\All deviders.exe
+C:\Users\Vlady\Desktop\C#\2011-12\Project Euler\All deviders\bin\Debug\All deviders.pdb
+C:\Users\Vlady\Desktop\C#\2011-12\Project Euler\All deviders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vlady\Desktop\C#\2011-12\Project Euler\All deviders\obj\x86\Debug\All deviders.exe
+C:\Users\Vlady\Desktop\C#\2011-12\Project Euler\All deviders\obj\x86\Debug\All deviders.pdb

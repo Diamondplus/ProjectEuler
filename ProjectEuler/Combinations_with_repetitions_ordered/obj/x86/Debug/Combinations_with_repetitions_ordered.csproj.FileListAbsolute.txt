@@ -1,0 +1,7 @@
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Combinations_with_repetitions_ordered\bin\Debug\Combinations_with_repetitions_ordered.exe
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Combinations_with_repetitions_ordered\bin\Debug\Combinations_with_repetitions_ordered.pdb
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Combinations_with_repetitions_ordered\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Combinations_with_repetitions_ordered\obj\x86\Debug\Combinations_with_repetitions_ordered.exe
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Combinations_with_repetitions_ordered\obj\x86\Debug\Combinations_with_repetitions_ordered.pdb
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Combinations_with_repetitions_ordered\obj\x86\Debug\Combinations_with_repetitions_ordered.exe
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Combinations_with_repetitions_ordered\obj\x86\Debug\Combinations_with_repetitions_ordered.pdb

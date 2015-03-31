@@ -1,0 +1,10 @@
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Variation And Permutation\Variation And Permutation\bin\Debug\Variation And Permutation.exe
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Variation And Permutation\Variation And Permutation\bin\Debug\Variation And Permutation.pdb
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Variation And Permutation\Variation And Permutation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Variation And Permutation\Variation And Permutation\obj\x86\Debug\Variation And Permutation.exe
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Variation And Permutation\Variation And Permutation\obj\x86\Debug\Variation And Permutation.pdb
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Variation And Permutation\obj\x86\Debug\Variation And Permutation.exe
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Variation And Permutation\obj\x86\Debug\Variation And Permutation.pdb
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Variation And Permutation\bin\Debug\Variation And Permutation.exe
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Variation And Permutation\bin\Debug\Variation And Permutation.pdb
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Variation And Permutation\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\042\bin\Debug\042.exe.config
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\042\bin\Debug\042.exe
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\042\bin\Debug\042.pdb
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\042\obj\Debug\042.exe
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\042\obj\Debug\042.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\042\bin\Debug\042.exe.config
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\042\bin\Debug\042.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\042\bin\Debug\042.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\042\obj\Debug\042.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\042\obj\Debug\042.pdb

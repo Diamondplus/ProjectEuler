@@ -1,0 +1,10 @@
+C:\Users\Vlady\Desktop\C#\Project Euler\GCD and LCM\bin\Debug\GCD and LCM.exe
+C:\Users\Vlady\Desktop\C#\Project Euler\GCD and LCM\bin\Debug\GCD and LCM.pdb
+C:\Users\Vlady\Desktop\C#\Project Euler\GCD and LCM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vlady\Desktop\C#\Project Euler\GCD and LCM\obj\x86\Debug\GCD and LCM.exe
+C:\Users\Vlady\Desktop\C#\Project Euler\GCD and LCM\obj\x86\Debug\GCD and LCM.pdb
+C:\Users\Vlady\Desktop\C#\2011-12\Project Euler\GCD and LCM\bin\Debug\GCD and LCM.exe
+C:\Users\Vlady\Desktop\C#\2011-12\Project Euler\GCD and LCM\bin\Debug\GCD and LCM.pdb
+C:\Users\Vlady\Desktop\C#\2011-12\Project Euler\GCD and LCM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vlady\Desktop\C#\2011-12\Project Euler\GCD and LCM\obj\x86\Debug\GCD and LCM.exe
+C:\Users\Vlady\Desktop\C#\2011-12\Project Euler\GCD and LCM\obj\x86\Debug\GCD and LCM.pdb

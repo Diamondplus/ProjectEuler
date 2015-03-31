@@ -1,0 +1,11 @@
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\455\bin\Debug\455.exe.config
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\455\bin\Debug\455.exe
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\455\bin\Debug\455.pdb
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\455\obj\Debug\455.csprojResolveAssemblyReference.cache
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\455\obj\Debug\455.exe
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\455\obj\Debug\455.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\455\bin\Debug\455.exe.config
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\455\bin\Debug\455.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\455\bin\Debug\455.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\455\obj\Debug\455.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\455\obj\Debug\455.pdb

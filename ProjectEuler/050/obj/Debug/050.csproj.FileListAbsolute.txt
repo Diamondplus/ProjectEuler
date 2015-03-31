@@ -1,0 +1,6 @@
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\050\bin\Debug\050.exe.config
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\050\bin\Debug\050.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\050\bin\Debug\050.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\050\obj\Debug\050.csprojResolveAssemblyReference.cache
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\050\obj\Debug\050.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\050\obj\Debug\050.pdb

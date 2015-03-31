@@ -1,0 +1,11 @@
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\043\bin\Debug\043.exe.config
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\043\obj\Debug\043.csprojResolveAssemblyReference.cache
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\043\bin\Debug\043.exe
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\043\bin\Debug\043.pdb
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\043\obj\Debug\043.exe
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\043\obj\Debug\043.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\043\bin\Debug\043.exe.config
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\043\bin\Debug\043.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\043\bin\Debug\043.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\043\obj\Debug\043.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\043\obj\Debug\043.pdb

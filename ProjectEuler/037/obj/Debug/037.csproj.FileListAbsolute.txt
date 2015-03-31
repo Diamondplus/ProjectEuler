@@ -1,0 +1,10 @@
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\037\bin\Debug\037.exe.config
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\037\bin\Debug\037.exe
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\037\bin\Debug\037.pdb
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\037\obj\Debug\037.exe
+C:\Users\Diamond\Desktop\Works\ProjectEuler 27--\ConsoleApplication1\037\obj\Debug\037.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\037\bin\Debug\037.exe.config
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\037\bin\Debug\037.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\037\bin\Debug\037.pdb
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\037\obj\Debug\037.exe
+C:\!  DEV\ProjectEuler 27--\ProjectEuler\037\obj\Debug\037.pdb

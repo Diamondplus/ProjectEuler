@@ -1,0 +1,10 @@
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Test\obj\x86\Debug\Test.exe
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Test\obj\x86\Debug\Test.pdb
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Test\bin\Debug\Test.exe
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Test\bin\Debug\Test.pdb
+C:\Users\Vlady\Desktop\C#\HomeWorks\13 Recursion 191_VLST\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Combinations\obj\x86\Debug\Test.exe
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Combinations\obj\x86\Debug\Test.pdb
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Combinations\bin\Debug\Test.exe
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Combinations\bin\Debug\Test.pdb
+C:\Users\Vlady\Desktop\C#\!\Combinatorica\Combinations\obj\x86\Debug\ResolveAssemblyReference.cache
